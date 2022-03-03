@@ -1,0 +1,9 @@
+F:\Files\Work\HNC Computing\Assignments\Software Development\Program\Main Program v3\Main Program v2\obj\Debug\Main Program v3.csprojResolveAssemblyReference.cache
+F:\Files\Work\HNC Computing\Assignments\Software Development\Program\Main Program v3\Main Program v2\obj\Debug\Main_Program_v3.frmMainWindow.resources
+F:\Files\Work\HNC Computing\Assignments\Software Development\Program\Main Program v3\Main Program v2\obj\Debug\Main_Program_v2.Properties.Resources.resources
+F:\Files\Work\HNC Computing\Assignments\Software Development\Program\Main Program v3\Main Program v2\obj\Debug\Main Program v3.csproj.GenerateResource.Cache
+F:\Files\Work\HNC Computing\Assignments\Software Development\Program\Main Program v3\Main Program v2\obj\Debug\Main Program v2.exe
+F:\Files\Work\HNC Computing\Assignments\Software Development\Program\Main Program v3\Main Program v2\obj\Debug\Main Program v2.pdb
+F:\Files\Work\HNC Computing\Assignments\Software Development\Program\Main Program v3\Main Program v2\bin\Debug\Main Program v2.exe.config
+F:\Files\Work\HNC Computing\Assignments\Software Development\Program\Main Program v3\Main Program v2\bin\Debug\Main Program v2.exe
+F:\Files\Work\HNC Computing\Assignments\Software Development\Program\Main Program v3\Main Program v2\bin\Debug\Main Program v2.pdb
